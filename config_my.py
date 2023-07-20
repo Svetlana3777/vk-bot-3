@@ -1,0 +1,3 @@
+acces_token = 'https://oauth.vk.com/blank.html#access_token=vk1.a.WSl4f8Lbk2U-MBi5g9f3H5CcWrAykdn_jcucLM0g1LqQFWTrZCeq1vY0Tkynvk3wjRwHGgjArFKpzSy-0mw1Ey7tyrFBMP4PTYoQK5u9t-uHIxa2iwJgArqi-FAtGazhzwhj4wiVAxqN34H39GOx03VhvbzfnHV1JaY2cxKCuw4SbFrZkKJ6TONZUUSeAqEv&expires_in=86400&user_id=209298354'
+comunity_token = '2e6047fa2e6047fa2e6047faba2d74ba1122e602e6047fa4ad6ac4fcf1e976749504e4c'
+db_url_object = "postgresql+psycopg2://student:student@localhost/student_diplom"
